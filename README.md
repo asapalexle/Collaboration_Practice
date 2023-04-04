@@ -1,3 +1,3 @@
 # Collaboration_Practice
 
-"fox jumped over"
+"fox jumped over the lazy dog"
